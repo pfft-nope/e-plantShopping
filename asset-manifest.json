@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paradise-nursery/static/css/main.87572f2f.css",
-    "main.js": "/paradise-nursery/static/js/main.f9a8a764.js",
-    "static/js/453.e1e06ad2.chunk.js": "/paradise-nursery/static/js/453.e1e06ad2.chunk.js",
-    "index.html": "/paradise-nursery/index.html",
-    "main.87572f2f.css.map": "/paradise-nursery/static/css/main.87572f2f.css.map",
-    "main.f9a8a764.js.map": "/paradise-nursery/static/js/main.f9a8a764.js.map",
-    "453.e1e06ad2.chunk.js.map": "/paradise-nursery/static/js/453.e1e06ad2.chunk.js.map"
+    "main.css": "/e-plantShopping/static/css/main.87572f2f.css",
+    "main.js": "/e-plantShopping/static/js/main.5d077274.js",
+    "static/js/453.2d976588.chunk.js": "/e-plantShopping/static/js/453.2d976588.chunk.js",
+    "index.html": "/e-plantShopping/index.html",
+    "main.87572f2f.css.map": "/e-plantShopping/static/css/main.87572f2f.css.map",
+    "main.5d077274.js.map": "/e-plantShopping/static/js/main.5d077274.js.map",
+    "453.2d976588.chunk.js.map": "/e-plantShopping/static/js/453.2d976588.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87572f2f.css",
-    "static/js/main.f9a8a764.js"
+    "static/js/main.5d077274.js"
   ]
 }
